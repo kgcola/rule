@@ -4,7 +4,8 @@ payload:
   - DOMAIN,test.28.al #起点公益
   - DOMAIN,us.aemby.de #起点公益推流
   - DOMAIN,plus.younoyes.com #youno plus cf主线
-  - DOMAIN,youyes.567741.xyz #youno plus 白美西分流
+  - DOMAIN,youyes.567741.xyz #youno plus 白美西分流1
+  - DOMAIN,split.567741.xyz #youno plus 白美西分流2
   - DOMAIN-SUFFIX,65194798.xyz #youno plus 白cf优选
   - DOMAIN,hgemby.qzz.io #hgemby
   - DOMAIN,emby.as174.de #hxd pron
